@@ -1,4 +1,4 @@
-# django-tests
+# django-scripts
 
 Three django tests useful for practice
 
